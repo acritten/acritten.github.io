@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Sciences - Major in Mathematics and Minor in Computer Science, Honors College Scholar, University of Vermont, 2021
 
-Work experience
+Work and Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Adjunct Faculty and Tutor
+  * Georgia Military College - Warner Robins, Georgia, United States
+  * Lectured in College Prep Algebra II
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Undergraduate Researcher and Group Leader
+  * Polymath REU - Virtual
+  * Project: "Walking To Infinity Along Some Number Theory Sequences"
+  * Supervisor: Prof. Steven J. Miller, Williams College
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C++
+  * Java
+  * SageMath
+  * MATLAB
+* Operating Systems
+  * Windows
+  * Linux (Ubuntu)
+* Additional Skills
+  * LaTeX
+  * GitHub
+  * Wolfram Mathematica
 
 Publications
 ======
