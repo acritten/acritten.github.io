@@ -15,9 +15,13 @@ Education
 
 Work and Research Experience
 ======
-* Summer 2021: Adjunct Faculty and Tutor
+* Summer 2021 - present: Adjunct Faculty and Tutor
   * Georgia Military College - Warner Robins, Georgia, United States
-  * Lectured in College Prep Algebra II
+ 
+* Summer 2020 - Spring 2021: Undergraduate Honors Thesis
+  * University of Vermont - Burlington, Vermont, United States
+  * Thesis: "Characterizing Insecure Error Distributions For Various RLWE Problems"
+  * Completed in collaboration with Prof. Christelle Vincent (UVM) and Sarah Days-Merrill (UVM)
 
 * Summer 2020: Undergraduate Researcher and Group Leader
   * Polymath REU - Virtual
