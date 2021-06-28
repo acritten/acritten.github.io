@@ -12,7 +12,7 @@ Hello! I am Alec Critten. Some of my main areas of interest past and present are
 
 Educational History
 ======
-I recently completed my undergraduate studies at the University of Vermont, majoring in mathematics and minoring in computer science. From 2020-21, I wrote an undergraduate honors thesis on the Ring Learning with Errors cryptosystem advised by [Dr. Christelle Vincent](http://www.uvm.edu/~cvincen1/index.html) in Vermont - [here](https://github.com/acritten/acritten.github.io/files/6666993/Alec.Critten.-.Undergraduate.Honors.Thesis.Final.Version.April.29.2021.pdf) is a link to the thesis document and [here](https://github.com/acritten/acritten.github.io/files/6667016/Alec.Critten.-.Thesis.Presentation.April.13.pdf) is a presentation I gave in its defense.
+I recently completed my undergraduate studies at the University of Vermont, majoring in mathematics and minoring in computer science. From 2020-21, I wrote an undergraduate honors thesis on the Ring Learning with Errors cryptosystem advised by [Dr. Christelle Vincent](http://www.uvm.edu/~cvincen1/index.html) in Vermont - under the "Publications" tab you'll find a link to the thesis and on my LinkedIn page I have a presentation I gave in support of this work.
 
 Personal Information
 ======
