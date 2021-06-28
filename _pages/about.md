@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Alec Critten. Some of my main areas of interest past and present are post-quantum cryptography, formal methods, and various areas of pure mathematics.
+Hello! I am Alec Critten. Some of my main areas of interest past and present are post-quantum cryptography, formal methods, and various areas of pure mathematics. Thank you for visiting my site; please pardon the mess as I finish constructing it.
 
 Educational History
 ======
