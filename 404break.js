@@ -23,12 +23,12 @@ const albums = [
   {
     embed: "https://archive.org/embed/basic-channel-quadrant-dub-01-quadrant-dub-i",
     link: "https://archive.org/details/basic-channel-quadrant-dub-01-quadrant-dub-i",
-    title: `"Quadrant Dub by Basic Channel"`
+    title: `"Quadrant Dub" by Basic Channel`
   },
   {
     embed: "https://archive.org/embed/carl-stone-moms-1992-cd-flac-na-049-cd",
     link: "https://archive.org/details/carl-stone-moms-1992-cd-flac-na-049-cd",
-    title: `"Mom's" by Carl Stone"`
+    title: `"Mom's" by Carl Stone`
   }
   // add more...
 ];
@@ -43,7 +43,7 @@ const artworks = [
   {
     img: "assets/gursky_rhineii.jpg",
     caption: `"Rhein II" by Andreas Gursky`,
-    link: "https://www.andreasgursky.com/en/works/1999/rhein-ii"
+    link: "https://www.andreasgursky.com/en/works/1999/rhein-2"
   },
   {
     img: "assets/winter_amwehr1.jpg",
@@ -57,8 +57,13 @@ const artworks = [
   },
   {
     img: "assets/hiroshige_100views35.jpg",
-    caption: "Suijin Shrine and Massaki on the Sumida River (隅田川水神の森真崎) by Hiroshige",
+    caption: `"Suijin Shrine and Massaki on the Sumida River (隅田川水神の森真崎)" by Hiroshige`,
     link: "https://en.wikipedia.org/wiki/One_Hundred_Famous_Views_of_Edo"
+  },
+  {
+    img: "assets/urban-light-chris-burden.jpg",
+    caption: `"Urban Light" by Chris Burden`,
+    link: "https://en.wikipedia.org/wiki/Urban_Light"
   }
   // add more...
 ];

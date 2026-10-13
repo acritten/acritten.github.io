@@ -9,4 +9,4 @@ F󠁈󠁈or student enquiries regarding modules taught at Swansea University, pl
 
 For personal matters it's {firstname dot lastname} ＠ gmail dot com.
 
-I am not on Facebook/Instagram/the website formerly known as Twitter/TikTok/Bluesky/etc.
+I am not on Facebook/Instagram/the website formerly known as Twitter/Bluesky/any other public-facing social media website.

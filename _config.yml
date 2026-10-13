@@ -22,8 +22,8 @@ title: Alec Critten
 email: 2261265@swansea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of Alec Critten, a PhD student in Computer Science at Swansea University.
-baseurl: "/~alec" # the subpath of your site, e.g. /blog
-url: "https://tilde.green" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/~test" # the subpath of your site, e.g. /blog
+url: "https://acritten.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

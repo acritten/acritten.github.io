@@ -7,11 +7,11 @@ I am known among friends for having a discerning taste in food, so I list my rec
 
 **Restaurants**
 - Swansea, Wales, UK:
-    - <u>Flynn's Deli</u> (££): a marvelous local establishment. Excellent bagel sandwiches (particularly the Reuben), a lovely brunch menu, and monthly events worth keeping an eye out for.
-    - <u>Tim's Sushi</u> (££): wonderful sushi, I particularly like the unagi prawn dragon roll and the smoked salmon roll.
-    - <u>Luigi's</u> (££): Swansea is fortunate to host many quality Italian restaurants, but this is the best. My partner and I have committed to trying a new dish every time we visit, and they haven't failed us yet. A bargain!
-    - <u>Thai Taste</u> (£): excellent Thai food in Swansea Market, a very filling and delicious Pad Thai, spring rolls and a drink runs you £10.
-    - <u>Grandad Needs His Medicine</u> (££): fantastic sandwich joint in Sketty. Their cubano special on Thursdays is immensely good and faithful to the style I grew up on. Note that the restaurant itself is very small so one may have better luck having it delivered than attempting to venture in-person for a table.
+    - <a href="https://flynnsdeli.co.uk/">Flynn's Deli</a> (££): a marvelous local establishment. Excellent bagel sandwiches (particularly the Reuben), a lovely brunch menu, and monthly events worth keeping an eye out for.
+    - <a href="https://maps.app.goo.gl/6cu7J35FXHAc69DN8">Tim's Sushi</a> (££): wonderful sushi, I particularly like the unagi prawn dragon roll and the smoked salmon roll.
+    - <a href="https://luigisrestaurant.uk/">Luigi's</a> (££): Swansea is fortunate to host many quality Italian restaurants, but this is the best. My partner and I have committed to trying a new dish every time we visit, and they haven't failed us yet. A bargain!
+    - <a href="https://maps.app.goo.gl/dNa3AaE1kSY5vZZZ6">Thai Taste</a> (£): excellent Thai food in Swansea Market, a very filling and delicious Pad Thai, spring rolls and a drink runs you £10.
+    - <a href="https://www.gnhm.co.uk/">Grandad Needs His Medicine</a> (££): fantastic sandwich joint in Sketty. Their cubano special on Thursdays is immensely good and faithful to the style I grew up on. Note that the restaurant itself is very small so one may have better luck having it delivered than attempting to venture in-person for a table.
 - Cardiff, Wales, UK:
     - <u>Pasture</u> (£££): worth a visit for special occasions. Marvelous chateaubriand steak.
     - <u>West Pizza</u> (£): criminally good New York-style pizza in Canton/Pontcanna, adjacent to Chapter Arts Centre. Tremendous value. Also leave room for dessert: their ice cream sandwich with homemade choc chip cookies and their Basque cheesecake are both excellent.
@@ -41,13 +41,13 @@ I am known among friends for having a discerning taste in food, so I list my rec
 
 **Bars**
 - Swansea, Wales, UK
-    - <u>Prohibition</u>, speakeasy on Green Dragon Lane. Open Weds, Fri, Sat from ~8/9pm. No sign, look for the bookcase!
+    - <u>Prohibition</u>, speakeasy on Green Dragon Lane. Open Weds, Fri, Sat late nights from ~8/9pm. No sign, look for the bookcase!
 - Cardiff, Wales, UK
     - <u>Lowkey</u>: in Duke Street Arcade. Nice selection of original drinks themed by decade. 
     - <u>Nightshade</u>: underneath Pasture (ask at the front desk for access). Fantastic drinks and a nice place to seek refuge from the hustle and bustle of Cardiff city centre.
 - Birmingham, England, UK
-    - <u>Fox and Chance</u>: in the city centre. A lovely selection of cocktails with a wide-ranging classic cocktail menu. It has a cosy neighbourhood bar-type feel which undersells how deep their cocktail knowledge runs. Always a treat to visit when I'm in town.
+    - <a href="https://www.foxandchance.co.uk/">Fox & Chance</a>: in the city centre. A lovely selection of house-special cocktails as well as an expansive classic cocktail menu. It has a cosy neighbourhood bar-type feel which undersells how deep their cocktail knowledge runs. Always a treat to visit when I'm in town.
 - Barcelona, Catalonia, Spain
-    - <u>Kahala</u>: lovely Tiki bar well worth a trip.
+    - <u>Kahala</u>: lovely Tiki bar well worth a trip. Warning: the house Mai Tai is extremely potent!!
 - Grenoble, Auvergne-Rhône-Alpes, France
-    - <u>Caves de la Chartreuse</u> (in Voiron): a fantastic museum dedicated to my favourite liqueur. Really informative guided tour on the history side, and enjoyable even if you're not as familiar as I am with Chartreuse. The bar at the end was lovely - I had hot chaud (hot chocolate with green Chartreuse, a killer combo) and a small glass of Green Chartreuse VEP (well worth it despite the hefty price tag, and will be on the lookout for this).
+    - <a href="https://www.chartreuse.fr/">Caves de la Chartreuse</a> (in Voiron): a fantastic museum dedicated to my favourite liqueur. Really informative guided tour on the history side, and enjoyable even if you're not as familiar as I am with Chartreuse. The bar at the end was lovely - I had hot chaud (hot chocolate with green Chartreuse, a killer combo) and a small glass of Green Chartreuse VEP (well worth it despite the hefty price tag, and will be on the lookout for this).
